@@ -10,9 +10,9 @@
   "styles": ["SilverStandard.css"],
   "esmodules": [],
   "packs": [],
-  "url": "https://github.com/jtbiddle/SilverStandard.git",
-  "manifest": "https://raw.githubusercontent.com/jtbiddle/SilverStandard/master/module.json",
-  "download": "https://github.com/jtbiddle/SilverStandard/releases/download/0.1/SilverStandard.zip",
+  "url": "https://github.com/jtbiddle/RemoveElectrum.git",
+  "manifest": "https://raw.githubusercontent.com/jtbiddle/RemoveElectrum/master/module.json",
+  "download": "https://github.com/jtbiddle/RemoveElectrum/releases/download/0.1/SilverStandard.zip",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.6"
 
